@@ -1,0 +1,14 @@
+E:\C# Projects\Library-MS\Library-MS\bin\Debug\net8.0\Library-MS.exe
+E:\C# Projects\Library-MS\Library-MS\bin\Debug\net8.0\Library-MS.deps.json
+E:\C# Projects\Library-MS\Library-MS\bin\Debug\net8.0\Library-MS.runtimeconfig.json
+E:\C# Projects\Library-MS\Library-MS\bin\Debug\net8.0\Library-MS.dll
+E:\C# Projects\Library-MS\Library-MS\bin\Debug\net8.0\Library-MS.pdb
+E:\C# Projects\Library-MS\Library-MS\obj\Debug\net8.0\Library-MS.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\Library-MS\Library-MS\obj\Debug\net8.0\Library-MS.AssemblyInfoInputs.cache
+E:\C# Projects\Library-MS\Library-MS\obj\Debug\net8.0\Library-MS.AssemblyInfo.cs
+E:\C# Projects\Library-MS\Library-MS\obj\Debug\net8.0\Library-MS.csproj.CoreCompileInputs.cache
+E:\C# Projects\Library-MS\Library-MS\obj\Debug\net8.0\Library-MS.dll
+E:\C# Projects\Library-MS\Library-MS\obj\Debug\net8.0\refint\Library-MS.dll
+E:\C# Projects\Library-MS\Library-MS\obj\Debug\net8.0\Library-MS.pdb
+E:\C# Projects\Library-MS\Library-MS\obj\Debug\net8.0\Library-MS.genruntimeconfig.cache
+E:\C# Projects\Library-MS\Library-MS\obj\Debug\net8.0\ref\Library-MS.dll
